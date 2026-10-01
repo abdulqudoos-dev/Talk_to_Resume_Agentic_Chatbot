@@ -1,5 +1,7 @@
 # Career Conversation Agent Chatbot
 
+> **Built by [Abdul Qudoos](https://www.abdul-qudoos.com)**, AI Automation & Forward Deployed Engineer · [More projects](https://www.abdul-qudoos.com/work)
+
 A conversational AI chatbot that represents a professional (e.g., Abdul Qudoos) for career-related Q&A, built with Python, Gradio, Gemini (Google LLM), and Pushover notifications.
 
 ## Features
@@ -56,3 +58,13 @@ python app.py
 - To change the represented professional, update the name, PDF, and summary in `app.py` and the `me/` directory.
 - To use a different LLM, adapt the `chat` method in `app.py`.
 
+---
+
+## About the author
+
+I'm **Abdul Qudoos**, an AI automation and forward deployed engineer based in Islamabad, Pakistan. I build production AI agents, voice agents, workflow automation, and the full-stack products around them.
+
+- Portfolio: [abdul-qudoos.com](https://www.abdul-qudoos.com)
+- Case studies: [abdul-qudoos.com/work](https://www.abdul-qudoos.com/work)
+- LinkedIn: [Abdul Qudoos](https://www.linkedin.com/in/abdul-qudoos-9a4640324/)
+- Email: abdulqudoos7113@gmail.com
